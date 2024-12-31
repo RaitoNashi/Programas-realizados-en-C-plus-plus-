@@ -17,6 +17,7 @@ int main(){
 	int opcion;		
 	while(opcion!=3){
 	cout<<"Holis, estoy haciendo pruebas";	
+	cout<<"Otro cambio";
 	cout<<"\nSELECCIONE UNA OPCION\n"
 		<<"1. Mostrar matrix\n" 
 		<<"2. cambiar los 0 por 1\n"
